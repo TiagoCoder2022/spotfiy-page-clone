@@ -9,7 +9,7 @@ Before starting, you must have a code editor installed on your machine, such as 
 
 ## Installation
 
-1. Clone the repository: git clone `https://github.com/TiagoCoder2022/spotfy-page-clone.git`
+1. Clone the repository: git clone `https://github.com/TiagoCoder2022/spotify-page-clone.git`
 2. Open the `index.html` file in your internet browser.
 
 ## Usage
