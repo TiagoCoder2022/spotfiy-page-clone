@@ -1,7 +1,7 @@
-# Spotfy Home Page Clone
+# Spotify Home Page Clone
 
 
-This is a project carried out in a course made on the Udemy platform, where it was proposed to create a clone of the Spotfy home page, using HTML, CSS and Bootstrap.
+This is a project carried out in a course made on the Udemy platform, where it was proposed to create a clone of the Spotify home page, using HTML, CSS and Bootstrap.
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ Before starting, you must have a code editor installed on your machine, such as 
 
 ## Usage
 
-By opening the `index.html` file in your internet browser, you will have access to the Spotfy homepage cloned in this project.
+By opening the `index.html` file in your internet browser, you will have access to the Spotify homepage cloned in this project.
 
 ## Used Technologies
 
