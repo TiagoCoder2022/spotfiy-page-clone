@@ -3,6 +3,10 @@
 
 This is a project carried out in a course made on the Udemy platform, where it was proposed to create a clone of the Spotify home page, using HTML, CSS and Bootstrap.
 
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/119512258/227736026-9aeded56-a832-4bf6-b56e-3558a29dcfd4.gif"  
+</p>
+
 ## Prerequisites
 
 Before starting, you must have a code editor installed on your machine, such as Visual Studio Code, and an internet browser, such as Google Chrome.
